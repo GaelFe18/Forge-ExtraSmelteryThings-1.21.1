@@ -1,0 +1,31 @@
+[06jun2025 16:18:34.953] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_userdev_data, --assetIndex, 17, --assetsDir, C:\Users\gaelf\.gradle\caches\forge_gradle\assets, --gameDir, ., --mod, extrasmelterythings, --all, --output, C:\Users\gaelf\Desktop\Minecraft Mods\forge-1.21.X\src\generated\resources, --existing, C:\Users\gaelf\Desktop\Minecraft Mods\forge-1.21.X\src\main\resources]
+[06jun2025 16:18:34.962] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Eclipse Adoptium OpenJDK 64-Bit Server VM 21.0.7+6-LTS
+[06jun2025 16:18:34.963] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.1 starting: java version 21.0.7 by Eclipse Adoptium; OS Windows 11 arch amd64 version 10.0
+[06jun2025 16:18:35.073] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_userdev_data
+[06jun2025 16:18:35.178] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///C:/Users/gaelf/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.7/8ab114ac385e6dbdad5efafe28aba4df8120915f/mixin-0.8.7.jar!/ Service=ModLauncher Env=UNKNOWN
+[06jun2025 16:18:36.026] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[06jun2025 16:18:36.739] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_userdev_data' with arguments [--gameDir, ., --assetsDir, C:\Users\gaelf\.gradle\caches\forge_gradle\assets, --assetIndex, 17, --mod, extrasmelterythings, --all, --output, C:\Users\gaelf\Desktop\Minecraft Mods\forge-1.21.X\src\generated\resources, --existing, C:\Users\gaelf\Desktop\Minecraft Mods\forge-1.21.X\src\main\resources]
+[06jun2025 16:18:41.554] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 51.0.33, for MC 1.21 with MCP 20240613.102039
+[06jun2025 16:18:41.554] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v51.0.33 Initialized
+[06jun2025 16:18:41.581] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[06jun2025 16:18:41.812] [modloading-worker-0/INFO] [mezz.jei.library.load.PluginCaller/]: Sending ConfigManager...
+[06jun2025 16:18:41.819] [modloading-worker-0/INFO] [mezz.jei.library.load.PluginCaller/]: Sending ConfigManager took 5.220 ms
+[06jun2025 16:18:42.226] [main/INFO] [net.minecraftforge.data.loading.DatagenModLoader/]: Initializing Data Gatherer for mods [extrasmelterythings]
+[06jun2025 16:18:42.288] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/gaelf/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.21-51.0.33_mapped_parchment_2024.11.17-1.21.1/forge-1.21-51.0.33_mapped_parchment_2024.11.17-1.21.1-recomp.jar%230!/assets/.mcassetsroot' uses unexpected schema
+[06jun2025 16:18:42.288] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/gaelf/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.21-51.0.33_mapped_parchment_2024.11.17-1.21.1/forge-1.21-51.0.33_mapped_parchment_2024.11.17-1.21.1-recomp.jar%230!/data/.mcassetsroot' uses unexpected schema
+[06jun2025 16:18:42.403] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Loot Tables
+[06jun2025 16:18:42.572] [main/INFO] [net.minecraft.data.DataGenerator/]: Loot Tables finished after 168 ms
+[06jun2025 16:18:42.572] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Recipes
+[06jun2025 16:18:42.602] [main/INFO] [net.minecraft.data.DataGenerator/]: Recipes finished after 29 ms
+[06jun2025 16:18:42.602] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Tags for minecraft:block mod id extrasmelterythings
+[06jun2025 16:18:42.610] [main/INFO] [net.minecraft.data.DataGenerator/]: Tags for minecraft:block mod id extrasmelterythings finished after 8 ms
+[06jun2025 16:18:42.610] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Tags for minecraft:item mod id extrasmelterythings
+[06jun2025 16:18:42.613] [main/INFO] [net.minecraft.data.DataGenerator/]: Tags for minecraft:item mod id extrasmelterythings finished after 3 ms
+[06jun2025 16:18:42.613] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Item Models: extrasmelterythings
+[06jun2025 16:18:42.633] [main/INFO] [net.minecraft.data.DataGenerator/]: Item Models: extrasmelterythings finished after 18 ms
+[06jun2025 16:18:42.633] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Block States: extrasmelterythings
+[06jun2025 16:18:42.736] [main/INFO] [net.minecraft.data.DataGenerator/]: Block States: extrasmelterythings finished after 103 ms
+[06jun2025 16:18:42.736] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Global Loot Modifiers : extrasmelterythings
+[06jun2025 16:18:42.745] [main/INFO] [net.minecraft.data.DataGenerator/]: Global Loot Modifiers : extrasmelterythings finished after 8 ms
+[06jun2025 16:18:42.745] [main/INFO] [net.minecraft.data.DataGenerator/]: All providers took: 343 ms
+[06jun2025 16:18:42.756] [main/INFO] [net.minecraft.data.HashCache/]: Caching: total files: 39, old count: 36, new count: 40, removed stale: 0, written: 5

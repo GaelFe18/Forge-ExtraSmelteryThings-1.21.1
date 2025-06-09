@@ -1,0 +1,5 @@
+// 1.21	2025-06-06T16:18:42.7467525	Global Loot Modifiers : extrasmelterythings
+5c56aa2b7c1ddb8dea1deb935d59a0475728fd63 data/extrasmelterythings/loot_modifiers/dirty_raw_iron_from_deepslate_iron_ore.json
+22eefca1d622d88b14ec7eca859d8805e64a8acd data/extrasmelterythings/loot_modifiers/dirty_raw_iron_from_iron_ore.json
+a2192aa8496e0a3d8bb414d43baffb54891d611b data/extrasmelterythings/loot_modifiers/dirty_raw_iron_from_raw_iron_block.json
+58259eb2add380ea8a6fba20fa40ba26c4dfad59 data/forge/loot_modifiers/global_loot_modifiers.json
